@@ -1,17 +1,22 @@
 # TIL
 Brief notes on what I learned today.
 
-_3 TILs so far..._
+_4 TILs so far..._
 
 ### Categories
 
 * [Bash](#bash)
+* [HTML](#html)
 * [PostgreSQL](#postgresql)
 * [Vim](#vim)
 
 ### Bash
 
 - [Setting an Environment Variable in a Piped Command](bash/environment-variable-pipe.md)
+
+### HTML
+
+- [\<sup> tag](html/super-tag.md)
 
 ### PostgreSQL
 
