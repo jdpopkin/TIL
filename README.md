@@ -1,13 +1,14 @@
 # TIL
 Brief notes on what I learned today.
 
-_4 TILs so far..._
+_5 TILs so far..._
 
 ### Categories
 
 * [Bash](#bash)
 * [HTML](#html)
 * [PostgreSQL](#postgresql)
+* [Python](#python)
 * [Vim](#vim)
 
 ### Bash
@@ -21,6 +22,10 @@ _4 TILs so far..._
 ### PostgreSQL
 
 - [Specifying Password in a Script](postgresql/password-in-script.md)
+
+### Python
+
+- [Download Source with pip](python/pip-install-source.md)
 
 ### Vim
 
