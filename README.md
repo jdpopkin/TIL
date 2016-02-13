@@ -1,11 +1,12 @@
 # TIL
 Brief notes on what I learned today.
 
-_6 TILs so far..._
+_7 TILs so far..._
 
 ### Categories
 
 * [Bash](#bash)
+* [Clojure](#clojure)
 * [HTML](#html)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
@@ -15,6 +16,10 @@ _6 TILs so far..._
 
 - [Setting an Environment Variable in a Piped Command](bash/environment-variable-pipe.md)
 - [Ignore Alias](bash/ignore-alias.md)
+
+### Clojure
+
+- [Date Math](clojure/date-math.md)
 
 ### HTML
 
