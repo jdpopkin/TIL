@@ -1,7 +1,7 @@
 # TIL
 Brief notes on what I learned today.
 
-_5 TILs so far..._
+_6 TILs so far..._
 
 ### Categories
 
@@ -14,6 +14,7 @@ _5 TILs so far..._
 ### Bash
 
 - [Setting an Environment Variable in a Piped Command](bash/environment-variable-pipe.md)
+- [Ignore Alias](bash/ignore-alias.md)
 
 ### HTML
 
