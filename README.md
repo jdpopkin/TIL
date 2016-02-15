@@ -1,7 +1,7 @@
 # TIL
 Brief notes on what I learned today.
 
-_7 TILs so far..._
+_8 TILs so far..._
 
 ### Categories
 
@@ -20,6 +20,7 @@ _7 TILs so far..._
 ### Clojure
 
 - [Date Math](clojure/date-math.md)
+- [Multiple Statements After If](clojure/after-if.md)
 
 ### HTML
 
